@@ -1,4 +1,15 @@
-body 
-{
-    background-color: lightblue;
+body {
+    background-color: gainsboro;
+}
+
+#cw1 {
+    color: red;
+}
+
+#cw2 {
+    color: green;
+}
+
+#cw3 {
+    color: blue;
 }
